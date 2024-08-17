@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project contains a Bash script (`auto_dump.sh`) that monitors the heap memory usage of a Java process and triggers a heap dump if the usage exceeds a specified threshold.
+This project contains a Bash script (`auto_dump.sh`) that monitors the heap memory usage of a Java service/container and triggers a heap dump if the usage exceeds a specified threshold.
 
 ### Motivation
 
